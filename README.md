@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carloshparedes
 - 👀 I’m interested in full stack technologies for web development
-- 🌱 I’m currently learning Auto Layout y Responsive Design
+- 🌱 I’m currently learning Auto Layout and Responsive Design
 - 📫 How to reach me carloshparedes@gmail.com
 
 <!---
