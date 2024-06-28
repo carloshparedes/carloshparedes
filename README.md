@@ -10,7 +10,7 @@
 
 Here are some of my top repositories that showcase my skills and interests:
 
-- **[integration engineering roject](https://github.com/carloshparedes/integration-engineering-project):** A web application for validating documents with the Truora API, designed with a simple and user-friendly interface, powered by standard web technologies.
+- **[integration engineering project](https://github.com/carloshparedes/integration-engineering-project):** A web application for validating documents with the Truora API, designed with a simple and user-friendly interface, powered by standard web technologies.
 - **[estructuras_de_datos_lineales_con_python](https://github.com/carloshparedes/estructuras_de_datos_lineales_con_python):** Exploring linear data structures with Python.
 - **[platzi-python-pip](https://github.com/carloshparedes/platzi-python-pip):** Python package management with PIP, created as part of a Platzi course.
 - **[oop-and-algorithms-python](https://github.com/carloshparedes/oop-and-algorithms-python):** Object-Oriented Programming and algorithms in Python.
